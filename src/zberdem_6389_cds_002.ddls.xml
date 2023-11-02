@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DDLS>
-    <DDLNAME>ZBERDEM_6389_CDS_001</DDLNAME>
+    <DDLNAME>ZBERDEM_6389_CDS_002</DDLNAME>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
